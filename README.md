@@ -8,6 +8,8 @@ instructions in the \_README.ipynb notebook. This demo is designed for a
 particular set of input and output resolutions and will need to be modified to
 support anything other than 1080p in and 2160p output. 
 
+https://www.youtube.com/watch?v=9CxeCY5PPyA
+
 Each notebook is designed to show off a particular aspect of PYNQ - I'm
 claiming the untidy nature of some of this as a feature rather than a function
 of time limits.
